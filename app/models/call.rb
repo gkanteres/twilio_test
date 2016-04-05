@@ -7,7 +7,6 @@ class Call < ActiveRecord::Base
       to: phone_number,
       url: 'https://gist.githubusercontent.com/patsul12/e6540632d21779b79057b5a1f997fad3/raw/5f9790e5fcc4fd059b1874f59e6d2bab759a6804/gistfile1.txt'
     );
-
   end
 
 private
